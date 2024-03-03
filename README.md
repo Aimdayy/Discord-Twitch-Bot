@@ -3,9 +3,11 @@
 <h1 align="center">
  How to use
 </h1>
-・ Place Tokens in tokens.txt /n
-・ Place Proxies in proxies.txt /n
-・ Change Prefix (If you want) /n
+```
+・ Place Tokens in tokens.txt 
+・ Place Proxies in proxies.txt 
+・ Change Prefix (If you want) 
+```
 
 
 
