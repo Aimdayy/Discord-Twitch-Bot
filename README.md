@@ -15,4 +15,9 @@
 <p align="center">
 - 👋 https:// [not finished yet]
 </p>
-
+<h1 align="center">
+ Features
+</h1>
+```
+・Twitch Follow
+```
