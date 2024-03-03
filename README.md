@@ -5,8 +5,9 @@
 </h1>
 
 ```
-・Twitch follow
-
+・Place tokens in tokens.txt
+・Place proxies in proxies.txt
+・Change prefix ( if you want )
 ```
 
 
